@@ -10,6 +10,10 @@ WBGeo is an open-source workbench for geoscientific workflows — covering struc
 
 ---
 
+📖 Full documentation: **[wbgeo.github.io](https://wbgeo.github.io/)** 
+
+---
+
 ## Getting Started
 
 The fastest way to explore WBGeo is through the **hosted demo** — no installation required. Try the visual interface (visual DSL) directly in your browser:
@@ -20,11 +24,7 @@ To run WBGeo locally, follow the installation guide:
 
 **[Installation Guide →](https://wbgeo.github.io/installation/)**
 
-For contributors and developers, see the [developer's guide](https://wbgeo.github.io/developers/) along with documentation on [components](https://wbgeo.github.io/developers/components/), [types](https://wbgeo.github.io/developers/types/), and [local execution](https://wbgeo.github.io/developers/local/).
-
----
-
-📖 Full documentation: **[wbgeo.github.io](https://wbgeo.github.io/)**  ·  💻 Backend source: **[WBGeo/codebase](https://github.com/WBGeo/codebase)**
+For contributors and developers, see the [developer's guide](https://wbgeo.github.io/developers/).
 
 ---
 

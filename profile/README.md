@@ -32,12 +32,13 @@ For contributors and developers, see the [developer's guide](https://wbgeo.githu
 
 <div style="display: flex; align-items: center; gap: 24px;">
   <a href="https://www.bmftr.de">
-    <img src="https://raw.githubusercontent.com/WBGeo/codebase/main/docs/img/BMFTR_en_Web_RGB_gef_durch.png" alt="Funded by BMFTR" width="800">
+    <img src="https://raw.githubusercontent.com/WBGeo/codebase/main/docs/img/BMFTR_en_Web_RGB_gef_durch.png" alt="Funded by BMFTR" width="200">
   </a>
   <p>This project was funded by the Federal Ministry of Research, Technology and Space (BMFTR)
   under the <a href="https://www.ptj.de/projektfoerderung/geo-n">Geoforschung für Nachhaltigkeit (GEO:N)</a>
   initiative (Grant no. 03G0922A).</p>
 </div>
+
 
 ---
 
